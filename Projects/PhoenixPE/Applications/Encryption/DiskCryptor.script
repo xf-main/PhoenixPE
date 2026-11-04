@@ -41,7 +41,7 @@ Date=2026-10-23
 [Variables]
 %ProgramFolder%="DiskCryptor"
 %ProgramExe%="dcrypt.exe"
-%ProgramVersion%="2.0.2
+%ProgramVersion%="2.0.2"
 %SetupFile%="Dcrypt-%ProgramVersion%.exe"
 %DownloadURL%=https://github.com/DavidXanatos/DiskCryptor/releases/download/v%ProgramVersion%/dcrypt_setup_%ProgramVersion%.exe
 

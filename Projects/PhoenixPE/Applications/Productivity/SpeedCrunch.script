@@ -30,13 +30,13 @@
 
 [Main]
 Title=SpeedCrunch
+Description=(v1.1 x64) SpeedCrunch is a high-precision scientific calculator featuring a fast, keyboard-driven user interface.
 Author=Homes32
 Level=5
-Description=(v1.1 x64) SpeedCrunch is a high-precision scientific calculator featuring a fast, keyboard-driven user interface.
-Version=1.0.2.0
-Date=2026-10-27
 Selected=False
 Mandatory=False
+Version=1.0.2.0
+Date=2026-10-27
 
 [Variables]
 %ProgramFolder%="SpeedCrunch"

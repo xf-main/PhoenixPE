@@ -41,7 +41,7 @@ Date=2026-10-23
 [Variables]
 %ProgramFolder%="VeraCrypt"
 %ProgramExe%="VeraCrypt.exe"
-%ProgramVersion%="1.26.29
+%ProgramVersion%="1.26.29"
 %SetupFile%="VeraCrypt-%ProgramVersion%.msi"
 %DownloadURL%=https://sourceforge.net/projects/veracrypt/files/VeraCrypt#$p20%ProgramVersion%/Windows/VeraCrypt_Setup_x64_%ProgramVersion%.msi/download
 %ConfigFile%="%TargetDir%\Users\Default\AppData\Roaming\VeraCrypt\Configuration.xml"
